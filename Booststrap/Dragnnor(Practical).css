@@ -1,0 +1,51 @@
+.card{
+    background-color: #FFF000;
+    width: 500px;
+    border: 1px solid;
+}
+
+.card2{
+    position: relative;
+    bottom: 175px;
+    left: 420px;
+    background-color: #FFF000;
+    border: 1px solid #212529;
+    border-radius: 4px;
+}
+
+.card3{
+    width: 500px;
+    height: 175px;
+    position: relative;
+    bottom: 350px;
+    left: 850px;
+    background-color: #FFF000;
+    border: 1px solid #212529;
+    border-radius: 4px;
+}
+
+.navbar{
+    background-color: red !important;
+}
+
+.nav-item{
+    padding-right: 50px;
+    border-right: 2px solid lightpink;
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    bottom: 330px;
+    left: 500px;
+}
+
+#Dragnnor{
+    background-color: red;
+    width: 100px;
+    position: relative;
+    bottom: 300px;
+    left: 570px;
+    color: black;
+}
